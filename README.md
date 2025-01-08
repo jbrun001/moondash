@@ -7,6 +7,8 @@
 
 **Repository:** [https://github.com/jbrun001/moondash](https://github.com/jbrun001/moondash)
 
+**Play it here:** [click to play!]{https://doc.gold.ac.uk/~jbrun001/programming/week7/index.html)
+
 ---
 
 ## Description
