@@ -1,7 +1,7 @@
 # MoonDash! 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white) ![P5.js](https://img.shields.io/badge/P5.js-%23ED225D.svg?style=for-the-badge)
 
-**Timeline:** 2022
+**Timeline:** 2022  
 **Platform:** Desktop Browser  
 **Team/Solo:** Solo  
 
